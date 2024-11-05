@@ -97,5 +97,12 @@ HAVING SUM(CASE
 WHEN OrderDate BETWEEN '2024-06-01' AND '2024-08-31' 
 THEN 1 ELSE 0 END) = 0
 ```
+![Screenshot (15)](https://github.com/user-attachments/assets/252aa732-297a-4269-b073-569940551880)
+
+![Screenshot (16)](https://github.com/user-attachments/assets/627b1249-5ce5-403e-a367-31d448507563)
+
+
+![Screenshot (17)](https://github.com/user-attachments/assets/3dcb0a7b-ee58-49f7-959c-3f4478cf72ed)
+
 
 `
